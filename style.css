@@ -1,0 +1,62 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.form-container {
+    background-color: white;
+    width: 437px;
+    height: 282px;
+    margin: 50px auto;
+    align-items: center;
+    padding: 20px;
+    border-radius: 5px;
+    }
+
+.form-txt {
+    font-size: 18px;
+}
+
+.cancel-btn {
+    background-color: #EEEEEE;
+}
+
+.start-btn {
+    background-color: #FF8D00;
+}
+
+.btn {
+    border: none;
+    font-size: 15px;
+    color: #EEEEEE;
+}
+
+.btn:hover{
+    background-color: #ef8959;
+    color: #EEEEEE
+}
+
+.par-txt {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.container {
+    background-color: #EEEEEE;
+    margin: 50px auto;
+    border-radius: 5px;
+    padding: 64px 72px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px #DDDDDD;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.101972);
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 0.5rem;
+}
+
+
